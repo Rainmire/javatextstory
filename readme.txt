@@ -1,4 +1,5 @@
-Java version of textstory. Similar input syntax. Use "test.txt" as example.
+A text reader that compiles a text file written in a particular syntax to generate an interactive branching story.
+Java version of textstory, with similar input syntax. Use "test.txt" as example input and run. The rest is very straightfoward.
 
 [[paragraph<<choice~num|choice~num>>]]	'|' is optional
 
